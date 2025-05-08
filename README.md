@@ -1,5 +1,5 @@
 # Wordle Analog - Java Konsoles Versija
-
+## https://23dp3dbesp.github.io/Wordle_Analog_Site_AGali_DBesp/
 ## Apraksts
 Wordle Analog ir Wordle spēles Java konsoles implementācija, kurā spēlētājam ir 6 mēģinājumi uzminēt slēpto 5-burtu vārdu. Šis projekts tika izstrādāts kā studentu projekts, ko veica A. Galilejevs un D. Bespalovs, izmantojot modernas programmēšanas prakses un tīra koda principus.
 
